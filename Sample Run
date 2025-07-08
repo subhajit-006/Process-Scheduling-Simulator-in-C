@@ -1,0 +1,18 @@
+Enter number of processes: 3
+Enter Burst Time for P1: 5
+Enter Burst Time for P2: 7
+Enter Burst Time for P3: 3
+
+Choose Scheduling Algorithm:
+1. FCFS
+2. Round Robin
+Choice: 2
+Enter Time Quantum: 2
+
+Round Robin (q=2):
+PID     BT      WT      TAT
+P1      5       6       11
+P2      7       8       15
+P3      3       4       7
+Average WT: 6.00
+Average TAT: 11.00
